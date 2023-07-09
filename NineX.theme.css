@@ -14,7 +14,7 @@
 
 /* See https://github.com/Saltssaumure/w9x-discord-theme#customisation for customisation settings. */
 :root {
-    --w9x-background-image: url(https://media.discordapp.net/attachments/1124207059739619478/1127347032722513961/2e0f3885c948e9db1fe73a809db68700.png);
+    --w9x-background-image: url"(https://media.discordapp.net/attachments/1124207059739619478/1127347032722513961/2e0f3885c948e9db1fe73a809db68700.png");
     --w9x-background-color: #008080;
     --w9x-start-text: "Windows95";
 }
